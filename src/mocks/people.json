@@ -1,17 +1,17 @@
-{
-    "Farrell": {
+[
+    {
         "id": 1,
         "fname": "Doug",
         "lname": "Farrell"
     },
-    "Brockman": {
+    {
         "id": 2,
         "fname": "Kent",
         "lname": "Brockman"
     },
-    "Easter": {
+    {
         "id": 3,
         "fname": "Bunny",
         "lname": "Easter"
     }
-}
+]
